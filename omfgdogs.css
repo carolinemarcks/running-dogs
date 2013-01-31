@@ -1,0 +1,21 @@
+body {
+	background-image: url("assets/omfgdogs.gif");
+	background-repeat:repeat;
+}
+
+a {
+	position: absolute;
+	bottom: 3%;
+	right: 3%;
+	font-size: 48px;
+	color: cyan;
+	font-family: "Comic Sans MS";
+	text-decoration: none;
+	background-color: magenta;
+}
+
+a:hover {
+	text-decoration: underline;
+	color: magenta;
+	background-color: cyan;
+}
